@@ -41,34 +41,20 @@
   > ### 관리자 페이지 메인메뉴 구성
   > <img width="1423" alt="희희낙찰 관리자 페이지 메인 구성" src="https://github.com/user-attachments/assets/9d21c682-c985-4f9e-b744-f15c3d0399ca">
   
-  > ### 드롭다운 메뉴
+  > ### 드롭다운 메뉴 구현
   > <img width="1361" alt="희희낙찰 관리자 페이지 드롭다운 메뉴 구현" src="https://github.com/user-attachments/assets/36302b0b-1105-497e-bfc6-49eb1547ff30">
   
-  > ### 관리자 메뉴 필터검색
+  > ### 관리자 메뉴 필터검색 기능
   > <img width="1350" alt="희희낙찰 관리자 페이지 필터검색 구현" src="https://github.com/user-attachments/assets/ac6210ff-3bfb-41f3-8430-29d3d330bddb">
   > <img width="1371" alt="희희낙찰 관리자 페이지 기간 필터검색 구현" src="https://github.com/user-attachments/assets/cd6984df-eb7d-4496-b2cc-f7d6c08c6b45">
 
-  > ### 
-  > 
+  > ### 문의사항 답변상태 확인 기능
+  > <img width="1281" alt="희희낙찰 관리자 페이지 문의답변 상태확인 뷰" src="https://github.com/user-attachments/assets/11531a47-1b1d-4338-88c1-0a8d343c226d">
+  > <img width="1408" alt="희희낙찰 관리자 페이지 문의답변 상태확인 소스코드" src="https://github.com/user-attachments/assets/5adef805-b425-4850-907d-11f7db049d0e">
 
-  > ### 
-  >
+  > ### 거래 진행상태에 따른 판매상태 변경 제약조건 부여
+  > <img width="1256" alt="희희낙찰 관리자 페이지 판매상태에 따른 제약조건 부여" src="https://github.com/user-attachments/assets/30f3217b-f83d-4bd7-947b-189769f8c064">
 
-  > ### 
-  >
-
-  > ### 
-  >
-
-  > ### 
-  >
-
-  > ### 
-  > 
-
-<img width="1406" alt="희희낙찰 관리자 페이지 구매자없는 거래건 처리" src="https://github.com/user-attachments/assets/daba78d1-26c3-489e-999c-fb37696d3b0c">
-<img width="1281" alt="희희낙찰 관리자 페이지 문의답변 상태확인 뷰" src="https://github.com/user-attachments/assets/11531a47-1b1d-4338-88c1-0a8d343c226d">
-<img width="1408" alt="희희낙찰 관리자 페이지 문의답변 상태확인 소스코드" src="https://github.com/user-attachments/assets/5adef805-b425-4850-907d-11f7db049d0e">
-<img width="783" alt="희희낙찰 관리자 페이지 부적절 품목에 대한 판매중지 기능 구현" src="https://github.com/user-attachments/assets/0c6b674c-6420-4d88-b68f-c896f8cbac48">
-<img width="1256" alt="희희낙찰 관리자 페이지 판매상태에 따른 제약조건 부여" src="https://github.com/user-attachments/assets/30f3217b-f83d-4bd7-947b-189769f8c064">
-<img width="1410" alt="희희낙찰 관리자 페이지 회원 이용정지 구현" src="https://github.com/user-attachments/assets/0e4f4afe-5b11-44d7-ba47-5895ba971c4b">
+  > ### 부적절 사용자, 물품 정지 기능
+  > <img width="1410" alt="희희낙찰 관리자 페이지 회원 이용정지 구현" src="https://github.com/user-attachments/assets/0e4f4afe-5b11-44d7-ba47-5895ba971c4b">
+  > <img width="783" alt="희희낙찰 관리자 페이지 부적절 품목에 대한 판매중지 기능 구현" src="https://github.com/user-attachments/assets/0c6b674c-6420-4d88-b68f-c896f8cbac48">
