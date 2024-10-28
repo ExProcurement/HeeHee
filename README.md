@@ -1,4 +1,4 @@
-# 프로젝트 개요
+# 프로젝트 소개
 <img width="1322" alt="희희낙찰 표지" src="https://github.com/user-attachments/assets/2a4a64f3-15c6-4f3b-bdb0-17a9d155de62">
 
 > 프로젝트 명 : 중고 거래 및 실시간 경매 플랫폼, 희희낙찰
