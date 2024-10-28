@@ -27,13 +27,6 @@
 # 시스템 아키텍처
 
 
-# 주요 기능
-## - OO 기능
-
-
-## - OO 기능
-
-
 # 메뉴 구조도
 <img width="1220" alt="희희낙찰 서비스 흐름도" src="https://github.com/user-attachments/assets/8fa91c9e-a6db-4e6a-b3a9-42039dc42a34">
 
